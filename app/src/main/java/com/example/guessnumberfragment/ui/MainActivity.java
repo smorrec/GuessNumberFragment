@@ -56,8 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_aboutus) {
-            Intent intent = new Intent(this, AboutUsActivity.class);
-            startActivity(intent);
+            Navigation.findNavController(this, R.id.nav_host_fragment_content_main).navigate(R.id.aboutUsActivity);
             return true;
         }
 
