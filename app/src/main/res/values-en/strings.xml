@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="btSendText">Play!</string>
+    <string name="UserHint">Introduce your username</string>
+    <string name="NumIntentosHint">Introduce max number attemps</string>
+    <string name="TryHint">Introduce your answer</string>
+    <string name="btCheck">Check Answer</string>
+    <string name="btTryAgain">Try Again</string>
+    <string name="mayor">The number to guess is bigger</string>
+    <string name="menor">The number to guess is smaller</string>
+    <string name="success">You have guessed the number!!</string>
+    <string name="fail">You have wasted all your attemps</string>
+    <string name="numIntentos">Attemps left: </string>
+    <string name="aboutus">About us</string>
+    <string name="linkedIn">sergio-morales-recio-b23661178</string>
+    <string name="gitHub">smorrec/SendMessageBinding</string>
+    <string name="brief">Futuro desarrollador de videojuegos</string>
+    <string name="activity">Técnico Superior en desarrollo de aplicaiones multiplataforma</string>
+    <string name="name">Sergio</string>
+    <string name="action_aboutus">About Us</string>
+    <string name="config_fragment_label">ConfigFragment</string>
+    <string name="play_fragment_label">PlayFragment</string>
+    <string name="fragment_end_play">EndPlayFragment</string>
+    <string name="activity_about_us">AboutUs</string>
+    <string name="btPlayAgain">Play Again!!</string>
+</resources>
